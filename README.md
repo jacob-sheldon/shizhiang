@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello everybody 👋
+
+- :sparkling_heart: iOS Developer
+- :green_book: Learning Swift
+- :eyes: Reading CSAPP
 
 <!--
 **shizhiang/shizhiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
